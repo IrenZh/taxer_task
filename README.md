@@ -1,6 +1,6 @@
 ## taxer_task
 
-This project is an automated testing suite for taxer, using the Cypress testing framework. The test is designed to check the functionality of adding certificates and checking the data in them.
+This project is an automated testing suite for Taxer, using the Cypress testing framework. The test is designed to check the functionality of adding certificates and checking the data in them.
 
 ## Installation
 ___
